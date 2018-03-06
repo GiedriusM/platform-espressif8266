@@ -48,6 +48,11 @@
       "optional": true,
       "version": "~1.20400.0"
     },
+    "framework-arduinoespressif8266-lwip-devel": {
+      "type": "framework",
+      "optional": true,
+      "version": "https://github.com/GiedriusM/Arduino.git"
+    },
     "framework-esp8266-rtos-sdk": {
       "type": "framework",
       "optional": true,
